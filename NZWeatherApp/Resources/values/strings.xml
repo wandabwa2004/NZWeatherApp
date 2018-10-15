@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">NZWeatherApp</string>
+  <string name="place_prompt">Choose a Place</string>
+  <string-array name="place_array">
+    <item>Auckland</item>
+    <item>Hamilton</item>
+    <item>Tauranga</item>
+    <item>Wellington</item>
+    <item>Nelson</item>
+    <item>Blenheim</item>
+    <item>Kaikoura</item>
+    <item>Christchurch</item>
+    <item>Dunedin</item>
+  </string-array>
+</resources>
